@@ -133,3 +133,5 @@ shipthis game ship
 - 💬 [Join us on Discord](https://discord.gg/gPjn3S99k4)
 - 🐛 [Report an issue](https://github.com/shipth-is/cli/issues)
 - 📣 Feature ideas? Feedback? We’d love to hear from you – email support@shipth.is
+
+Test change for release notes
